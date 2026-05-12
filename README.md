@@ -51,13 +51,13 @@ I am a results-driven student major in **Mathematics** with a self-designed conv
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[mathsjm32]&show_icons=true&theme=transparent" alt="Jeongmin's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mathsjm32&show_icons=true&theme=transparent" alt="Jeongmin's stats" />
 </p>
 
 ---
 
 ### 📫 Contact Me
-*   **Email:** [wjdals3232@gmail.com]
+*   **Email:** wjdals3232@gmail.com
 
 ---
 *Last Updated: 2026. 05. 12*
