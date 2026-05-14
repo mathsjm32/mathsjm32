@@ -18,14 +18,14 @@ I am a results-driven student major in **Mathematics** with a self-designed conv
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-2021034?style=flat-square&logo=Matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-373333?style=flat-square&logo=chart-line&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SPSS-CC0000?style=flat-square&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-FF0000?style=flat-square&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SQL-FFA500?style=flat-square&logo=MySQL&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Pandas-FFFF00?style=flat-square&logo=pandas&logoColor=black"/>
+   <img src="https://img.shields.io/badge/NumPy-008000?style=flat-square&logo=numpy&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Matplotlib-0000FF?style=flat-square&logo=Matplotlib&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Seaborn-4B0082?style=flat-square&logo=chart-line&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SPSS-8B00FF?style=flat-square&logo=ibm&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 ---
