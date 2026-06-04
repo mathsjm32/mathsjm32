@@ -5,16 +5,12 @@
 
 I am a results-driven student major in **Mathematics** with a self-designed convergence major in **Mathematical Business Management**. I specialize in finding hidden 'triggers' in complex datasets to drive actionable policy and business strategies.
 
----
-
 ### 🎓 Education
 *   **Incheon National University (INU)** | *Expected Feb 2027*
 *   **Major:** Mathematics
 *   **Double Major:** Mathematical Business Management (Self-designed Convergence Major)
     *   *A unique curriculum integrating Data Science, Math, and Management.*
 *   **GPA: 4.37 / 4.5** 🏆
-
----
 
 ### 🛠 Tech Stack
 <p>
@@ -28,15 +24,7 @@ I am a results-driven student major in **Mathematics** with a self-designed conv
    <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
----
-
 ### 🚀 Projects
-https://github.com/mathsjm32/Projects
+[Portfolio](https://github.com/mathsjm32/Projects)
 
----
-
-### 📫 Contact Me
-*   **Email:** wjdals3232@gmail.com
-
----
-*Last Updated: 2026. 05. 14*
+*Last Updated: 2026. 06. 04*
