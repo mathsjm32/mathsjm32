@@ -24,7 +24,7 @@ I am a results-driven student major in **Mathematics** with a self-designed conv
    <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
-### 🚀 Projects
-[Portfolio](https://github.com/mathsjm32/Projects)
+### 🚀 Resume&Portfolio (한글)
+Click for [Resume&Portfolio](https://github.com/mathsjm32/Projects)
 
 *Last Updated: 2026. 06. 04*
