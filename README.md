@@ -1,4 +1,4 @@
-# Hi there! I'm Jeongmin Seo 👋
+# Jeongmin Seo
 
 ### 📊 Aspiring Data & Business Analyst 
 > **"Bridging Mathematical Theory, Data Science, and Strategic Management."**
