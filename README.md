@@ -1,8 +1,10 @@
 # 서정민 (Jeongmin Seo)
 
-<img width="320" height="82" alt="image" src="https://github.com/user-attachments/assets/ffae6f0f-3bf8-47ba-9c51-1a51c045a6ca" />
+### Profile
+<img width="1417" height="796" alt="image" src="https://github.com/user-attachments/assets/712828c4-de45-4f5c-916e-badfa65dfa5e" />
 
-#### Tech Stack
+
+### Tech Stack
 <p>
    <img src="https://img.shields.io/badge/Python-FF0000?style=flat-square&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/SQL-FFA500?style=flat-square&logo=MySQL&logoColor=white"/>
